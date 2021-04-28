@@ -3,7 +3,8 @@
 - 🔭 Currently contributing to Gssoc'21!
 - 🌱 Gaining knowlegde in the domain of OpenCV
 - 💻 Beginner in Web Development
-- ✨ Good at Management Part 
+- ✨ Love to do the Management Part 
+- 🧰 Interested in Hardware domain
 <p align ="center" width = "100%">
 <img src="https://github-readme-stats.vercel.app/api?username=undetectablevirus&hide=stars&show_icons=true&theme=radical">
 </p>
