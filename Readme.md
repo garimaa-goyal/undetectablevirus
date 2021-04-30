@@ -19,4 +19,5 @@
  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"
 <\p>
 
- 
+ ## Connect with me
+[<img align = "left" width = "40px" height = "40px" src = "https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">](https://www.linkedin.com/in/garima-goyal-5295b6197)
