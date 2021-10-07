@@ -1,10 +1,10 @@
 ### Hello!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Garima Goyal here 
-- 🎓 Sophomore at NIT Hamirpur
-- 🔭 Currently contributing to Gssoc'21!
-- 🌱 Gaining knowlegde in the domain of OpenCV
-- 💻 Beginner in Web Development
+- 🎓 Student at NIT Hamirpur
+- 🔭 Exploring various domains out there
+- 💻 Front End Development
 - ✨ Love to do the Management Part 
 - 🧰 Interested in Hardware domain
+- :computer_mouse: PCB Designing
 <p align ="center" width = "100%">
 <img src="https://github-readme-stats.vercel.app/api?username=undetectablevirus&hide=stars&show_icons=true&theme=radical">
 </p>
